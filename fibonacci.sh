@@ -1,0 +1,77 @@
+# fibbonaci series
+
+printf "Enter a number --> "
+
+read num
+
+a=0
+b=1
+
+for ((i = 0; i < num; i++)); do
+    printf "$a\t"
+    f=$((a + b))
+    a=$b
+    b=$f
+done
+
+echo " "
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
+printf "X-"
