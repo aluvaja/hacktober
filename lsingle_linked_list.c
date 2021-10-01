@@ -11,7 +11,7 @@ struct node
 
 void travarse_linked_list(struct node *ptr){
     while(ptr != NULL){
-        printf("Element is %d\n",ptr->data);
+        printf("Elements are %d\n",ptr->data);
         ptr=ptr->next;
     }
 }
